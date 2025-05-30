@@ -1,2 +1,5 @@
 rich
 typer
+google-api-python-client
+google-colab
+ipywidgets
