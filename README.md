@@ -15,7 +15,7 @@
 <p>Tuy nhiên, nếu muốn chạy cục bộ (ít phổ biến), bạn cần cài các thư viện sau:</p>
 
 
-<pre><code>git clone https://d4m-dev/Copy-Drive.git && cd Copy-Drive</code></pre>
+<pre><code>git clone https://d4m-dev/Copy-Drive.git && cd Copy-Drive && ls</code></pre>
 
 <pre><code>pip install -r requirements.txt</code></pre>
 
