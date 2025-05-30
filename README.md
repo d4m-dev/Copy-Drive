@@ -14,6 +14,9 @@
 <p>Dành cho môi trường Google Colab. Không cần cài đặt cục bộ.</p>
 <p>Tuy nhiên, nếu muốn chạy cục bộ (ít phổ biến), bạn cần cài các thư viện sau:</p>
 
+
+<pre><code>git clone https://d4m-dev/Copy-Drive.git && cd Copy-Drive</code></pre>
+
 <pre><code>pip install -r requirements.txt</code></pre>
 
 <h2>🧠 Hướng dẫn sử dụng</h2>
